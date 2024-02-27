@@ -10,3 +10,5 @@ commonLabels:
 
 resources:
   - ../../../apps/pk-ambulance-ufe
+components:
+  - ../../../components/version-developers
